@@ -1,0 +1,7 @@
+@import "./fonts.css";
+@import "tailwindcss";
+
+@theme {
+  --font-bungee: "Bungee", sans-serif;
+  --font-montserrat: "Montserrat", sans-serif;
+}
